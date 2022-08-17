@@ -1,0 +1,14 @@
+body {
+	background-color: bisque;
+}
+h1,
+p,
+footer {
+	text-align: center;
+}
+
+footer a {
+	text-decoration: none;
+	color: brown;
+	padding: 10px;
+}
